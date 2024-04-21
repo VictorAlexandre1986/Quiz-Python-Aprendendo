@@ -22,4 +22,5 @@ def reconhecer_fala():
 if __name__ == "__main__":
     
     while True:
+        
         reconhecer_fala()
